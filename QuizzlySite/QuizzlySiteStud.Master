@@ -1,0 +1,74 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="QuizzlySiteStud.master.cs" Inherits="QuizzlySite.QuizzlySiteStud" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet" />
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="/css/bootstrap/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="/js/bootstrap/jquery.min.js"></script>
+
+    <!-- Popper JS -->
+    <script src="/js/bootstrap/popper.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="/js/bootstrap/bootstrap.min.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+             <header>
+                <nav class="navbar navbar-expand-md bg-light navbar-light">
+                    <!-- Brand -->
+                    <a class="navbar-brand" href="#">Zengage</a>
+
+                    <!-- Toggler/collapsibe Button -->
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <!-- Navbar links -->
+                    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/html/student/StudHome.aspx" runat="server">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/html/student/ViewMemos.aspx" runat="server">View Memos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="~/html/student/ViewMarks.aspx" runat="server">View Marks</a>
+                            </li>
+                        </ul>
+                        <div class="dropdown-divider"></div>
+                        <ul class="navbar-nav ml-auto">
+
+                            <li class="nav-item">
+
+                                <a runat="server" onserverclick="signOut_ServerClick" id="signOut" class="nav-link" href="#">Sign Out</a>
+
+                            </li>
+
+                        </ul>
+                    </div>
+                </nav>
+            </header>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

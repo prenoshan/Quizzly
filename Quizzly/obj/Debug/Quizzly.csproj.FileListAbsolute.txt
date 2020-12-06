@@ -1,0 +1,478 @@
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly.csprojAssemblyReference.cache
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Login.g.cs
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\App.g.cs
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.cache
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.lref
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\Quizzly.exe.config
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\Quizzly.exe
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\Quizzly.pdb
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\AuthDLL.dll
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\DBHelperDLL.dll
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.dll
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\AuthDLL.pdb
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\DBHelperDLL.pdb
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.pdb
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Register.g.cs
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\App.baml
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Login.baml
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Register.baml
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly.g.resources
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly.Properties.Resources.resources
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.GenerateResource.cache
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CoreCompileInputs.cache
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CopyComplete
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly.exe
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\Quizzly.pdb
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\LecturerScreen.g.cs
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\LecturerScreen.baml
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\CreateTest.g.cs
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\CreateTest.baml
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\NewTest.g.cs
+C:\Users\18005753\source\repos\Quizzly\Quizzly\obj\Debug\NewTest.baml
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\TestDLL.dll
+C:\Users\18005753\source\repos\Quizzly\Quizzly\bin\Debug\TestDLL.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\Quizzly.exe.config
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\Quizzly.exe
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\Quizzly.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\AuthDLL.dll
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\DBHelperDLL.dll
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.dll
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\TestDLL.dll
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\AuthDLL.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\DBHelperDLL.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\TestDLL.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly.csprojAssemblyReference.cache
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\CreateTest.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\LecturerScreen.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Login.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\NewTest.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Register.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\App.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.cache
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.lref
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\App.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\CreateTest.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\LecturerScreen.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Login.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\NewTest.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Register.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly.g.resources
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly.Properties.Resources.resources
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.GenerateResource.cache
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CoreCompileInputs.cache
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CopyComplete
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly.exe
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\Quizzly.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\QandADLL.dll
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\QandADLL.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\TestSet.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\TestSet.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\StudentScreen.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\StudentScreen.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\TakeTest.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\TestArea.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\TakeTestDLL.dll
+C:\Users\preno\Downloads\Quizzly\Quizzly\bin\Debug\TakeTestDLL.pdb
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\TakeTest.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\TestArea.baml
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\TestComplete.g.cs
+C:\Users\preno\Downloads\Quizzly\Quizzly\obj\Debug\TestComplete.baml
+E:\Prog\Quizzly\Quizzly\bin\Debug\Quizzly.exe.config
+E:\Prog\Quizzly\Quizzly\bin\Debug\Quizzly.exe
+E:\Prog\Quizzly\Quizzly\bin\Debug\Quizzly.pdb
+E:\Prog\Quizzly\Quizzly\bin\Debug\AuthDLL.dll
+E:\Prog\Quizzly\Quizzly\bin\Debug\DBHelperDLL.dll
+E:\Prog\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.dll
+E:\Prog\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Prog\Quizzly\Quizzly\bin\Debug\QandADLL.dll
+E:\Prog\Quizzly\Quizzly\bin\Debug\TakeTestDLL.dll
+E:\Prog\Quizzly\Quizzly\bin\Debug\TestDLL.dll
+E:\Prog\Quizzly\Quizzly\bin\Debug\QandADLL.pdb
+E:\Prog\Quizzly\Quizzly\bin\Debug\AuthDLL.pdb
+E:\Prog\Quizzly\Quizzly\bin\Debug\DBHelperDLL.pdb
+E:\Prog\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.pdb
+E:\Prog\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Prog\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Prog\Quizzly\Quizzly\bin\Debug\TakeTestDLL.pdb
+E:\Prog\Quizzly\Quizzly\bin\Debug\TestDLL.pdb
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly.csprojAssemblyReference.cache
+E:\Prog\Quizzly\Quizzly\obj\Debug\CreateTest.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\LecturerScreen.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\Login.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\NewTest.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\Register.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\StudentScreen.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\TakeTest.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\TestArea.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\TestComplete.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\TestSet.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\App.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.cache
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.lref
+E:\Prog\Quizzly\Quizzly\obj\Debug\App.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\CreateTest.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\LecturerScreen.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\Login.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\NewTest.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\Register.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\StudentScreen.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\TakeTest.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\TestArea.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\TestComplete.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\TestSet.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly.g.resources
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly.Properties.Resources.resources
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.GenerateResource.cache
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CopyComplete
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly.exe
+E:\Prog\Quizzly\Quizzly\obj\Debug\Quizzly.pdb
+E:\Prog\Quizzly\Quizzly\obj\Debug\StudentResults.g.cs
+E:\Prog\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.dll
+E:\Prog\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.pdb
+E:\Prog\Quizzly\Quizzly\obj\Debug\StudentResults.baml
+E:\Prog\Quizzly\Quizzly\obj\Debug\ViewMemo.g.cs
+E:\Prog\Quizzly\Quizzly\obj\Debug\ViewMemo.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\Quizzly.exe.config
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\Quizzly.exe
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\Quizzly.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\AuthDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\DBHelperDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\QandADLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\TakeTestDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\TestDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\QandADLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\AuthDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\DBHelperDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\TakeTestDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\bin\Debug\TestDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly.csprojAssemblyReference.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\CreateTest.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\LecturerScreen.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Login.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\NewTest.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Register.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\StudentResults.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\StudentScreen.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\TakeTest.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\TestArea.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\TestComplete.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\TestSet.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\ViewMemo.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\App.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.lref
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\App.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\CreateTest.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\LecturerScreen.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Login.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\NewTest.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Register.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\StudentResults.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\StudentScreen.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\TakeTest.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\TestArea.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\TestComplete.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\TestSet.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\ViewMemo.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly.g.resources
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly.Properties.Resources.resources
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.GenerateResource.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CoreCompileInputs.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CopyComplete
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly.exe
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\Quizzly\obj\Debug\Quizzly.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly.csprojAssemblyReference.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\CreateTest.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\LecturerScreen.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Login.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\NewTest.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Register.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\StudentResults.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\StudentScreen.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\TakeTest.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\TestArea.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\TestComplete.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\TestSet.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\ViewMemo.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\App.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.lref
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\Quizzly.exe.config
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\Quizzly.exe
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\Quizzly.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\AuthDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\DBHelperDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\QandADLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\TakeTestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\TestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\QandADLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\AuthDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\DBHelperDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\TakeTestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\bin\Debug\TestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\App.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\CreateTest.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\LecturerScreen.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Login.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\NewTest.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Register.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\StudentResults.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\StudentScreen.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\TakeTest.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\TestArea.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\TestComplete.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\TestSet.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\ViewMemo.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly.g.resources
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly.Properties.Resources.resources
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.GenerateResource.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CopyComplete
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly.exe
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\Quizzly\obj\Debug\Quizzly.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\Quizzly.exe.config
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\Quizzly.exe
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\Quizzly.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\AuthDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\DBHelperDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\QandADLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TakeTestDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TestDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\QandADLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\AuthDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\DBHelperDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TakeTestDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TestDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csprojAssemblyReference.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\CreateTest.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\LecturerScreen.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Login.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\NewTest.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Register.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentResults.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentScreen.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TakeTest.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestArea.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestComplete.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestSet.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\ViewMemo.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\App.g.cs
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.lref
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\App.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\CreateTest.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\LecturerScreen.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Login.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\NewTest.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Register.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentResults.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentScreen.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TakeTest.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestArea.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestComplete.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestSet.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\ViewMemo.baml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.g.resources
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.Properties.Resources.resources
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.GenerateResource.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CoreCompileInputs.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CopyComplete
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.exe
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\Quizzly.exe.config
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\Quizzly.exe
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\Quizzly.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\AuthDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\DBHelperDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\QandADLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TakeTestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\QandADLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\AuthDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\DBHelperDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TakeTestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csprojAssemblyReference.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\CreateTest.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\LecturerScreen.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Login.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\NewTest.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Register.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentResults.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentScreen.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TakeTest.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestArea.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestComplete.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestSet.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\ViewMemo.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\App.g.cs
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.lref
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\App.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\CreateTest.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\LecturerScreen.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Login.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\NewTest.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Register.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentResults.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentScreen.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TakeTest.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestArea.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestComplete.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestSet.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\ViewMemo.baml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.g.resources
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.Properties.Resources.resources
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.GenerateResource.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CopyComplete
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.exe
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\Quizzly.exe.config
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\Quizzly.exe
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\Quizzly.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\AuthDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\DBHelperDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\QandADLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TakeTestDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TestDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\QandADLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\AuthDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\DBHelperDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TakeTestDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\bin\Debug\TestDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csprojAssemblyReference.cache
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\CreateTest.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\LecturerScreen.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Login.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\NewTest.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Register.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentResults.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentScreen.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TakeTest.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestArea.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestComplete.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestSet.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\ViewMemo.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\App.g.cs
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.cache
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.lref
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\App.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\CreateTest.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\LecturerScreen.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Login.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\NewTest.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Register.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentResults.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\StudentScreen.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TakeTest.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestArea.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestComplete.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\TestSet.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\ViewMemo.baml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.g.resources
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.Properties.Resources.resources
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.GenerateResource.cache
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CoreCompileInputs.cache
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CopyComplete
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.exe
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\Quizzly\obj\Debug\Quizzly.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\Quizzly.exe.config
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\Quizzly.exe
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\Quizzly.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\AuthDLL.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\DBHelperDLL.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\QandADLL.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\TakeTestDLL.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\TestDLL.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\QandADLL.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\AuthDLL.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\DBHelperDLL.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\ResultAndMemoDLL.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\TakeTestDLL.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\bin\Debug\TestDLL.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly.csprojAssemblyReference.cache
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\CreateTest.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\LecturerScreen.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Login.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\NewTest.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Register.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\StudentResults.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\StudentScreen.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\TakeTest.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\TestArea.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\TestComplete.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\TestSet.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\ViewMemo.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\App.g.cs
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.cache
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly_MarkupCompile.lref
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\App.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\CreateTest.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\LecturerScreen.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Login.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\NewTest.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Register.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\StudentResults.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\StudentScreen.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\TakeTest.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\TestArea.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\TestComplete.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\TestSet.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\ViewMemo.baml
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly.g.resources
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly.Properties.Resources.resources
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.GenerateResource.cache
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly.csproj.CopyComplete
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly.exe
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\Quizzly\obj\Debug\Quizzly.pdb

@@ -1,0 +1,5 @@
+E:\Prog\Quizzly\TakeTestDLL\bin\Release\TakeTestDLL.dll
+E:\Prog\Quizzly\TakeTestDLL\bin\Release\TakeTestDLL.pdb
+E:\Prog\Quizzly\TakeTestDLL\obj\Release\TakeTestDLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\TakeTestDLL\obj\Release\TakeTestDLL.dll
+E:\Prog\Quizzly\TakeTestDLL\obj\Release\TakeTestDLL.pdb

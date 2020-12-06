@@ -1,0 +1,22 @@
+E:\Prog\Quizzly\ResultAndMemoDLL\bin\Debug\ResultAndMemoDLL.dll
+E:\Prog\Quizzly\ResultAndMemoDLL\bin\Debug\ResultAndMemoDLL.pdb
+E:\Prog\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.csprojAssemblyReference.cache
+E:\Prog\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.dll
+E:\Prog\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\ResultAndMemoDLL\bin\Debug\ResultAndMemoDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\ResultAndMemoDLL\bin\Debug\ResultAndMemoDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\bin\Debug\ResultAndMemoDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\bin\Debug\ResultAndMemoDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.csproj.CoreCompileInputs.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\bin\Debug\ResultAndMemoDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\bin\Debug\ResultAndMemoDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.csprojAssemblyReference.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\ResultAndMemoDLL\obj\Debug\ResultAndMemoDLL.pdb

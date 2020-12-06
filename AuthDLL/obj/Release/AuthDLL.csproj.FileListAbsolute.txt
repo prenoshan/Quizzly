@@ -1,0 +1,5 @@
+E:\Prog\Quizzly\AuthDLL\bin\Release\AuthDLL.dll
+E:\Prog\Quizzly\AuthDLL\bin\Release\AuthDLL.pdb
+E:\Prog\Quizzly\AuthDLL\obj\Release\AuthDLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\AuthDLL\obj\Release\AuthDLL.dll
+E:\Prog\Quizzly\AuthDLL\obj\Release\AuthDLL.pdb

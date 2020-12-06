@@ -1,0 +1,49 @@
+﻿body {
+    font-family: 'Lato', sans-serif;
+}
+
+.labels {
+    font-size: 1.1em;
+}
+
+.inputWidthFix {
+    margin: 0 auto;
+    width: 300px !important;
+}
+
+.inputWidthFixTwo {
+    margin: 0 auto;
+    width: 90% !important;
+}
+
+.btnCreateTest {
+    color: white;
+    background-color: #f14927;
+    width: 150px;
+    padding: 10px;
+}
+
+    .btnCreateTest:hover {
+        background-color: #b91d12;
+        color: seashell;
+    }
+
+.error {
+    text-align: center;
+    font-size: 1.3em;
+    color: #dc3545;
+}
+
+.success {
+    text-align: center;
+    font-size: 1.3em;
+    color: #28a745;
+}
+
+.centerSuccess {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

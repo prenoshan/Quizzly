@@ -1,0 +1,6 @@
+E:\Prog\Quizzly\QandADLL\bin\Release\QandADLL.dll
+E:\Prog\Quizzly\QandADLL\bin\Release\QandADLL.pdb
+E:\Prog\Quizzly\QandADLL\obj\Release\QandADLL.csprojAssemblyReference.cache
+E:\Prog\Quizzly\QandADLL\obj\Release\QandADLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\QandADLL\obj\Release\QandADLL.dll
+E:\Prog\Quizzly\QandADLL\obj\Release\QandADLL.pdb

@@ -1,0 +1,207 @@
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QuizzlySite.dll.config
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QuizzlySite.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QuizzlySite.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csc.exe
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csc.exe.config
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csc.rsp
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csi.exe
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csi.exe.config
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csi.rsp
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.AppContext.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Console.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.Compression.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.Pipes.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Claims.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.ValueTuple.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.XPath.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\vbc.exe
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\vbc.exe.config
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\vbc.rsp
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\VBCSCompiler.exe
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.csprojAssemblyReference.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.g.resources
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.csproj.CoreCompileInputs.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.csproj.CopyComplete
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\AuthDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\DBHelperDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QandADLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\ResultAndMemoDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TakeTestDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TestDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\AuthDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\DBHelperDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QandADLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\ResultAndMemoDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TakeTestDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QuizzlySite.dll.config
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QuizzlySite.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QuizzlySite.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csc.exe
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csc.exe.config
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csc.rsp
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csi.exe
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csi.exe.config
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csi.rsp
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.AppContext.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Collections.Immutable.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Console.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.Compression.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.FileSystem.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.Pipes.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Reflection.Metadata.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.AccessControl.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Claims.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.ValueTuple.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.XPath.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\vbc.exe
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\vbc.exe.config
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\vbc.rsp
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\VBCSCompiler.exe
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\VBCSCompiler.exe.config
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\AuthDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\DBHelperDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QandADLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\ResultAndMemoDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TakeTestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\AuthDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\DBHelperDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QandADLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\ResultAndMemoDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TakeTestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.csprojAssemblyReference.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.g.resources
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.csproj.CopyComplete
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QuizzlySite.dll.config
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QuizzlySite.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QuizzlySite.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csc.exe
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csc.exe.config
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csc.rsp
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csi.exe
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csi.exe.config
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\csi.rsp
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.Managed.Core.targets
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.AppContext.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Collections.Immutable.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Console.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.Compression.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.FileSystem.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.IO.Pipes.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Reflection.Metadata.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.AccessControl.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Claims.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Security.Principal.Windows.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.ValueTuple.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.XmlDocument.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.XPath.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\vbc.exe
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\vbc.exe.config
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\vbc.rsp
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\VBCSCompiler.exe
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\roslyn\VBCSCompiler.exe.config
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\AuthDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\DBHelperDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QandADLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\ResultAndMemoDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TakeTestDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TestDLL.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\AuthDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\DBHelperDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\QandADLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\ResultAndMemoDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TakeTestDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\TestDLL.pdb
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.csprojAssemblyReference.cache
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.g.resources
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.csproj.CoreCompileInputs.cache
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.csproj.CopyComplete
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.dll
+E:\POE PROG6212 - 18005753\POE\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QuizzlySite\obj\Debug\QuizzlySite.pdb

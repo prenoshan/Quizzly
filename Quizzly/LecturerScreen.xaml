@@ -1,0 +1,62 @@
+﻿<Window x:Class="Quizzly.LecturerScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"        
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        WindowStartupLocation="CenterScreen"
+        xmlns:local="clr-namespace:Quizzly"
+        mc:Ignorable="d"
+        Title="Lecturer Main Screen" Height="600" Width="1000" ResizeMode="CanMinimize">
+    <Grid>
+
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF2C3B50" Offset="1"/>
+                <GradientStop Color="#FF232526"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+
+        <Button x:Name="btnLogOut" Content="Sign Out" Click="BtnLogOut_Click"
+                FontSize="24" Height="Auto" Margin="14,360,664,111"/>
+
+        <Button x:Name="btnCreateTest" Content="Create Test"
+                Click="BtnCreateTest_Click"
+                FontSize="24" Height="Auto" Margin="14,201,664,270"/>
+
+        <Button x:Name="btnWebsite" Content="Go to website"
+                FontSize="24" Height="Auto" Margin="14,41,664,430" Click="BtnWebsite_Click"/>
+        
+        <Grid x:Name="mainArea" Margin="350,0,0,0">
+            <TextBlock x:Name="tbUsername"
+                Style="{StaticResource MaterialDesignBody1TextBlock}" 
+                FontSize="30" TextAlignment="Center" HorizontalAlignment="Center" Margin="0,127,0,396" Width="644">Welcome User</TextBlock>
+
+            <TextBlock
+                Style="{StaticResource MaterialDesignBody1TextBlock}" 
+                FontSize="24" TextAlignment="Center" HorizontalAlignment="Center" Margin="0,180,0,343" Width="644">
+                Click on a button on the left to create tests
+            </TextBlock>
+        </Grid>
+
+        <Separator HorizontalAlignment="Left" Height="16" Margin="50,278,0,0" VerticalAlignment="Top" Width="572" RenderTransformOrigin="0.5,0.5">
+            <Separator.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Separator.RenderTransform>
+        </Separator>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,24 @@
+﻿body {
+    font-family: 'Lato', sans-serif;
+}
+
+.btnCreateTest {
+    color: white;
+    background-color: #f14927;
+    width: 150px;
+    padding: 10px;
+}
+
+    .btnCreateTest:hover {
+        background-color: #b91d12;
+        color: seashell;
+    }
+
+.labels {
+    font-size: 1.1em;
+}
+
+.inputWidthFix {
+    margin: 0 auto;
+    width: 300px !important;
+}

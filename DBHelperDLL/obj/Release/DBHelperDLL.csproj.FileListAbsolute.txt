@@ -1,0 +1,5 @@
+E:\Prog\Quizzly\DBHelperDLL\bin\Release\DBHelperDLL.dll
+E:\Prog\Quizzly\DBHelperDLL\bin\Release\DBHelperDLL.pdb
+E:\Prog\Quizzly\DBHelperDLL\obj\Release\DBHelperDLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\DBHelperDLL\obj\Release\DBHelperDLL.dll
+E:\Prog\Quizzly\DBHelperDLL\obj\Release\DBHelperDLL.pdb

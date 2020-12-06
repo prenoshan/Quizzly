@@ -1,0 +1,29 @@
+C:\Users\18005753\source\repos\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.dll
+C:\Users\18005753\source\repos\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.pdb
+C:\Users\18005753\source\repos\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.csprojAssemblyReference.cache
+C:\Users\18005753\source\repos\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.csproj.CoreCompileInputs.cache
+C:\Users\18005753\source\repos\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.dll
+C:\Users\18005753\source\repos\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.pdb
+E:\Prog\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.dll
+E:\Prog\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.pdb
+E:\Prog\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.csprojAssemblyReference.cache
+E:\Prog\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.dll
+E:\Prog\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.csprojAssemblyReference.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.csproj.CoreCompileInputs.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\bin\Debug\DBHelperDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.csprojAssemblyReference.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\DBHelperDLL\obj\Debug\DBHelperDLL.pdb

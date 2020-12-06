@@ -1,0 +1,28 @@
+C:\Users\18005753\source\repos\Quizzly\AuthDLL\bin\Debug\AuthDLL.dll
+C:\Users\18005753\source\repos\Quizzly\AuthDLL\bin\Debug\AuthDLL.pdb
+C:\Users\18005753\source\repos\Quizzly\AuthDLL\obj\Debug\AuthDLL.csproj.CoreCompileInputs.cache
+C:\Users\18005753\source\repos\Quizzly\AuthDLL\obj\Debug\AuthDLL.dll
+C:\Users\18005753\source\repos\Quizzly\AuthDLL\obj\Debug\AuthDLL.pdb
+C:\Users\18005753\source\repos\Quizzly\AuthDLL\obj\Debug\AuthDLL.csprojAssemblyReference.cache
+E:\Prog\Quizzly\AuthDLL\bin\Debug\AuthDLL.dll
+E:\Prog\Quizzly\AuthDLL\bin\Debug\AuthDLL.pdb
+E:\Prog\Quizzly\AuthDLL\obj\Debug\AuthDLL.csprojAssemblyReference.cache
+E:\Prog\Quizzly\AuthDLL\obj\Debug\AuthDLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\AuthDLL\obj\Debug\AuthDLL.dll
+E:\Prog\Quizzly\AuthDLL\obj\Debug\AuthDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\AuthDLL\bin\Debug\AuthDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\AuthDLL\bin\Debug\AuthDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\AuthDLL\obj\Debug\AuthDLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\AuthDLL\obj\Debug\AuthDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\AuthDLL\obj\Debug\AuthDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\bin\Debug\AuthDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\bin\Debug\AuthDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\obj\Debug\AuthDLL.csproj.CoreCompileInputs.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\obj\Debug\AuthDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\obj\Debug\AuthDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\bin\Debug\AuthDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\bin\Debug\AuthDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\obj\Debug\AuthDLL.csprojAssemblyReference.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\obj\Debug\AuthDLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\obj\Debug\AuthDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\AuthDLL\obj\Debug\AuthDLL.pdb

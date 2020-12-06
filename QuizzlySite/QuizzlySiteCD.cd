@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="QuizzlySite.html.lecturer.CreateTest">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACBAgQAAQQABCAAAAAAAAAAAAAAAACAIAAEAAAIIAAA=</HashCode>
+      <FileName>html\lecturer\CreateTest.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizzlySite.html.lecturer.CreateTestArea">
+    <Position X="8.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACBhQAAaQgAAAAEAQAAAAAAAASgACAoIEAAEAMIYAAA=</HashCode>
+      <FileName>html\lecturer\CreateTestArea.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizzlySite.html.lecturer.LectHome">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAQAAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>html\lecturer\LectHome.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizzlySite.html.student.StudHome">
+    <Position X="0.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAQAAAAAAgAIAAAAAAEAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>html\student\StudHome.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizzlySite.html.student.ViewMarks">
+    <Position X="3" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QDAAEAAAQIAAAAAAAAAIEAAAAgAAAAAIAAAAAAIAAAA=</HashCode>
+      <FileName>html\student\ViewMarks.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizzlySite.html.student.ViewMemos">
+    <Position X="5.5" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QCAAEAAAQIAAAAAAAAAIEAAAAAAAAEAIAAAAAAIAAAA=</HashCode>
+      <FileName>html\student\ViewMemos.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="QuizzlySite.html.LoginPage">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AChAAAAAQAAAQAAAAAAAAAAAIAAACCAAABAQAAJIAAA=</HashCode>
+      <FileName>html\LoginPage.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

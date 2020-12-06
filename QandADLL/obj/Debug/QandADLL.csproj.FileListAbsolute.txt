@@ -1,0 +1,40 @@
+C:\Users\preno\Downloads\Quizzly\QandADLL\bin\Debug\QandADLL.dll
+C:\Users\preno\Downloads\Quizzly\QandADLL\bin\Debug\QandADLL.pdb
+C:\Users\preno\Downloads\Quizzly\QandADLL\obj\Debug\QandADLL.csprojAssemblyReference.cache
+C:\Users\preno\Downloads\Quizzly\QandADLL\obj\Debug\QandADLL.csproj.CoreCompileInputs.cache
+C:\Users\preno\Downloads\Quizzly\QandADLL\obj\Debug\QandADLL.dll
+C:\Users\preno\Downloads\Quizzly\QandADLL\obj\Debug\QandADLL.pdb
+E:\Prog\Quizzly\QandADLL\bin\Debug\QandADLL.dll
+E:\Prog\Quizzly\QandADLL\bin\Debug\QandADLL.pdb
+E:\Prog\Quizzly\QandADLL\obj\Debug\QandADLL.csprojAssemblyReference.cache
+E:\Prog\Quizzly\QandADLL\obj\Debug\QandADLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\QandADLL\obj\Debug\QandADLL.dll
+E:\Prog\Quizzly\QandADLL\obj\Debug\QandADLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\QandADLL\bin\Debug\QandADLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\QandADLL\bin\Debug\QandADLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\QandADLL\obj\Debug\QandADLL.csprojAssemblyReference.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\QandADLL\obj\Debug\QandADLL.csproj.CoreCompileInputs.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\QandADLL\obj\Debug\QandADLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 1\Quizzly\QandADLL\obj\Debug\QandADLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\QandADLL\bin\Debug\QandADLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\QandADLL\bin\Debug\QandADLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\QandADLL\obj\Debug\QandADLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\QandADLL\obj\Debug\QandADLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\QandADLL\obj\Debug\QandADLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\bin\Debug\QandADLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\bin\Debug\QandADLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\obj\Debug\QandADLL.csproj.CoreCompileInputs.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\obj\Debug\QandADLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\obj\Debug\QandADLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\bin\Debug\QandADLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\bin\Debug\QandADLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\obj\Debug\QandADLL.csprojAssemblyReference.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\obj\Debug\QandADLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\obj\Debug\QandADLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\QandADLL\obj\Debug\QandADLL.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\QandADLL\bin\Debug\QandADLL.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\QandADLL\bin\Debug\QandADLL.pdb
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\QandADLL\obj\Debug\QandADLL.csprojAssemblyReference.cache
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\QandADLL\obj\Debug\QandADLL.csproj.CoreCompileInputs.cache
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\QandADLL\obj\Debug\QandADLL.dll
+C:\Users\Prenoshan\Desktop\prog 2019\Quizzly\QandADLL\obj\Debug\QandADLL.pdb

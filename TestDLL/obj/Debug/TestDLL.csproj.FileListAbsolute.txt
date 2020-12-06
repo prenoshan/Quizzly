@@ -1,0 +1,34 @@
+C:\Users\18005753\source\repos\Quizzly\TestDLL\bin\Debug\TestDLL.dll
+C:\Users\18005753\source\repos\Quizzly\TestDLL\bin\Debug\TestDLL.pdb
+C:\Users\18005753\source\repos\Quizzly\TestDLL\obj\Debug\TestDLL.csprojAssemblyReference.cache
+C:\Users\18005753\source\repos\Quizzly\TestDLL\obj\Debug\TestDLL.csproj.CoreCompileInputs.cache
+C:\Users\18005753\source\repos\Quizzly\TestDLL\obj\Debug\TestDLL.dll
+C:\Users\18005753\source\repos\Quizzly\TestDLL\obj\Debug\TestDLL.pdb
+C:\Users\preno\Downloads\Quizzly\TestDLL\bin\Debug\TestDLL.dll
+C:\Users\preno\Downloads\Quizzly\TestDLL\bin\Debug\TestDLL.pdb
+C:\Users\preno\Downloads\Quizzly\TestDLL\obj\Debug\TestDLL.csprojAssemblyReference.cache
+C:\Users\preno\Downloads\Quizzly\TestDLL\obj\Debug\TestDLL.csproj.CoreCompileInputs.cache
+C:\Users\preno\Downloads\Quizzly\TestDLL\obj\Debug\TestDLL.dll
+C:\Users\preno\Downloads\Quizzly\TestDLL\obj\Debug\TestDLL.pdb
+E:\Prog\Quizzly\TestDLL\bin\Debug\TestDLL.dll
+E:\Prog\Quizzly\TestDLL\bin\Debug\TestDLL.pdb
+E:\Prog\Quizzly\TestDLL\obj\Debug\TestDLL.csprojAssemblyReference.cache
+E:\Prog\Quizzly\TestDLL\obj\Debug\TestDLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\TestDLL\obj\Debug\TestDLL.dll
+E:\Prog\Quizzly\TestDLL\obj\Debug\TestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\TestDLL\bin\Debug\TestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\TestDLL\bin\Debug\TestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\TestDLL\obj\Debug\TestDLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\TestDLL\obj\Debug\TestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe - Task 2\Quizzly\TestDLL\obj\Debug\TestDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\bin\Debug\TestDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\bin\Debug\TestDLL.pdb
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\obj\Debug\TestDLL.csproj.CoreCompileInputs.cache
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\obj\Debug\TestDLL.dll
+C:\Users\preno\OneDrive\Desktop\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\obj\Debug\TestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\bin\Debug\TestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\bin\Debug\TestDLL.pdb
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\obj\Debug\TestDLL.csprojAssemblyReference.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\obj\Debug\TestDLL.csproj.CoreCompileInputs.cache
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\obj\Debug\TestDLL.dll
+E:\Prenoshan Naidoo, 18005753, PROG6212 Poe\Quizzly\TestDLL\obj\Debug\TestDLL.pdb

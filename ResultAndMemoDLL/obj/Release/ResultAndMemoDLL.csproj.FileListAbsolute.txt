@@ -1,0 +1,5 @@
+E:\Prog\Quizzly\ResultAndMemoDLL\bin\Release\ResultAndMemoDLL.dll
+E:\Prog\Quizzly\ResultAndMemoDLL\bin\Release\ResultAndMemoDLL.pdb
+E:\Prog\Quizzly\ResultAndMemoDLL\obj\Release\ResultAndMemoDLL.csproj.CoreCompileInputs.cache
+E:\Prog\Quizzly\ResultAndMemoDLL\obj\Release\ResultAndMemoDLL.dll
+E:\Prog\Quizzly\ResultAndMemoDLL\obj\Release\ResultAndMemoDLL.pdb
